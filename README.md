@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm test 👋
 
-<!--
-**medzeinkhaled-hub/medzeinkhaled-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After 10 years as a Managing Editor in Dubai, I'm back 
+to my IT roots — and this time heading toward my real 
+passion: cybersecurity.
 
-Here are some ideas to get you started:
+I bring something most SOC candidates don't have: an IT 
+engineering foundation (ZTE, Huawei), a decade of 
+high-pressure editorial decision-making, and the mature 
+judgment that comes from leading teams through breaking 
+news at 2am — not unlike triaging a security incident 
+at 2am.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Spain is my new home and my chosen base. I'm building 
+my SOC career here deliberately, one documented project 
+at a time.
+
+🔵 Master Degree | Microsoft SC-200 | Sentinel | Defender XDR | KQL| Google Cybersecurity Professional Certificate
+
+🌍 Arabic · English · French · Spanish
+
+📍 Oviedo, Spain | Open to SOC roles & EU remote
